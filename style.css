@@ -7,7 +7,7 @@
    }
    
    html {
-       background-color: #FFFFFF;
+       background-color: #eefaff;
        -webkit-background-size: cover;
        -moz-background-size: cover;
        -o-background-size: cover;
@@ -35,13 +35,14 @@
    }
    
    h1 {
-       color: #2c2c2c;
-   }
+       color: #1092ce;
+    }
    
    h2 {
        color: #575757;
        word-break: break-all;
        font-size: 1.3em;
+       font-weight: lighter;
    }
    
    .neumorphism-2 {
@@ -52,7 +53,7 @@
        padding: 1.5em;
        border-radius: 50px;
        background: #ffffff;
-       box-shadow: inset 0 0 15px rgba(55, 84, 170, 0), inset 0 0 20px rgba(255, 255, 255, 0), 7px 7px 15px rgba(55, 84, 170, .15), -7px -7px 20px rgba(255, 255, 255, 1), inset 0px 0px 4px rgba(255, 255, 255, .2);
+       box-shadow: inset 0 0 15px rgba(55, 84, 170, 0), inset 0 0 20px rgba(185, 201, 255, 0), 7px 7px 15px rgba(55, 84, 170, .15), -7px -7px 20px rgb(223, 250, 255), inset 0px 0px 4px rgba(209, 212, 255, 0.2);
    }
    
    .outerBar {
