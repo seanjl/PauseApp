@@ -43,6 +43,7 @@
        word-break: break-all;
        font-size: 1.3em;
        font-weight: lighter;
+       text-align: center;
    }
    
    .neumorphism-2 {
@@ -52,7 +53,7 @@
        max-width: 620px;
        padding: 1.5em;
        border-radius: 50px;
-       background: #ffffff;
+       background: #243447;
    }
    
    .outerBar {
@@ -73,7 +74,7 @@
        outline: none;
        border: none;
        border-radius: 30px;
-       box-shadow: inset 2px 2px 5px #d8d8d896, inset -5px -5px 10px #8a8a8a42;
+       box-shadow: inset 2px 2px 5px #172230, inset -5px -5px 10px #182b428f;
    }
    
    .innerBar {
@@ -96,7 +97,7 @@
        animation-duration: 18s;
        animation-iteration-count: infinite;
        animation-delay: 1s;
-       box-shadow: 2px 2px 5px #d8d8d896, -5px -5px 10px #8a8a8a42;
+       box-shadow: 2px 2px 5px #24344760, -5px -5px 10px #24344759;
    }
    
    @keyframes loading {
@@ -106,44 +107,44 @@
        }
        1% {
            width: 3%;
-           background-color: #2771e0;
+           background-color: #1DA1F2;
        }
        34% {
            width: 34%;
-           background-color: #2771e0;
+           background-color: #1DA1F2;
        }
        35% {
            width: 35%;
-           background-color: #31ff9f;
+           background-color: #1df264;
        }
        67% {
            width: 67%;
-           background-color: #31ff9f;
+           background-color: #1df264;
        }
        68% {
            width: 68%;
-           background-color: #d027e0;
+           background-color: #f2dd1d;
        }
        99% {
            width: 100%;
-           background-color: #d027e0;
+           background-color: #f2dd1d;
        }
        100% {
            width: 0%;
-           background-color: #2771e0;
+           background-color: #1DA1F2;
        }
    }
    
    .txt-lb {
-       color: #2771e0;
+       color: #1DA1F2;
    }
    
    .txt-green {
-       color: #2abe79;
+       color: #1df264;
    }
    
    .txt-pink {
-       color: #d027e0;
+       color: #f2dd1d;
    }
    
    .inlinediv {
